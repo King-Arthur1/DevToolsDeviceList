@@ -29,6 +29,7 @@
         "type": "emulated-device",
         "device": {
             "show-by-default": true,
+            "select-by-default": true,
             "title": "Microsoft Lumia 950",
             "screen": {
                 "horizontal": {
