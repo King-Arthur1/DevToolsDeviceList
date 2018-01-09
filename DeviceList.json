@@ -3,7 +3,7 @@
         "type": "emulated-device",
         "device": {
             "show-by-default": true,
-            "title": "Nokia Lumia 650",
+            "title": "Microsoft Lumia 650",
             "screen": {
                 "horizontal": {
                     "width": 640,
